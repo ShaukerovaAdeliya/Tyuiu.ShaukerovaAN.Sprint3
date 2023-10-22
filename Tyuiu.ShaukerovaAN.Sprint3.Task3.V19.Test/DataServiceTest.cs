@@ -14,7 +14,14 @@ namespace Tyuiu.ShaukerovaAN.Sprint3.Task3.V19.Test
             DataService ds = new DataService();
 
             string str = "sxxrrg x vfrx";
-            char chr = 2;
+            char rpb = 'x';
+            char rpc = '2'; 
+
+            string res = ds.ReplaceCharOnNum(str, rpb, rpc); 
+
+            string wait = "s22rrg 2 vfr2"; 
+
+            Assert.AreEqual(wait, res);
         }
     }
 }
