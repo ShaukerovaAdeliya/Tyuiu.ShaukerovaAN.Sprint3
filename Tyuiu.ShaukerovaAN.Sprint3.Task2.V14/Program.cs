@@ -14,7 +14,7 @@ namespace Tyuiu.ShaukerovaAN.Sprint3.Task2.V11
         {
             Console.Title = "Спринт #3 | Выполнила: Шаукерова А.Н. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт#2                                                                *");
+            Console.WriteLine("* Спринт#3                                                                *");
             Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #11                                                              *");
